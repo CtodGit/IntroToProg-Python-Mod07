@@ -1,6 +1,9 @@
 **Christian Todhunter**
+
 **06/02/2020**
+
 **IT FDN 100 A**
+
 **Assignment07**
 
 # Errors Handling Pickles???
