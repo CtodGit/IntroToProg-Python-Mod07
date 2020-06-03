@@ -62,3 +62,6 @@ Below is the same program running at a different phase in command line. The fun 
 
 This was a fun exercise. I enjoyed the freedom of the open-ended assignment, but also learned to value the structure from previous assignment. I will say, I definitely felt like I was learning more organically while paving my own way. I really liked being able to keep track of where the user left of with persistence through pickling, and error handling really came in handy when opening the file for the first time, or routing the script accordingly if the user was re-opening for the second time. Of course, a work-around is to delete the .dat file before re-opening, but this is cool enough for me at the level I am at. 
 
+I almost forgot! Here is a link for the tool I used for that cool ASCII Art:
+
+[ASCII Art Generator](https://www.ascii-art-generator.org/)
